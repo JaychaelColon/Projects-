@@ -1,0 +1,1 @@
+A Python-based employee database management system that allows users to add, update, delete, and search employee records by ID or name. Built entirely using core Python, with a focus on clean data handling and user-friendly functionality.
